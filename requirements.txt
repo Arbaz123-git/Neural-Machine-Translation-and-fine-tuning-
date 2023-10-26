@@ -1,0 +1,8 @@
+huggingface 
+pandas 
+matplotlib 
+datasets 
+transformers 
+sentencepiece
+sacrebleu 
+bert-score 
