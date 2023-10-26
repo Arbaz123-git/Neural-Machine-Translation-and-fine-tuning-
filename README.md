@@ -2,3 +2,5 @@
 Fine tuning Neural Machine Translation 
 
 Details of project is explained in presentation.ipynb file go and visit it to understand the project completely. Also History of LLMs and NLP is presented in simple and easy to understand way go visit it. 
+
+Presentation file also contain explanation of how to fine tune LLM using LoRA
